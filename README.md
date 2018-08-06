@@ -5,7 +5,7 @@
 1. Assign a local variable.
 
 ## Instructions
-
+greeting = "hello world"
 You will assign a local variable named `greeting` that is equal to `"Hello World"`.
 
 You should first make sure the test suite is running correctly by running `learn`.
